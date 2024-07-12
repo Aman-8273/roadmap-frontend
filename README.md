@@ -55,7 +55,7 @@ Step by step guide to becoming a modern frontend developer course.
 ### [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 - [✔] Omnifood Project – Setup and Desktop Version
-- [ ] Omnifood Project – Responsive Web Design
+- [✔] Omnifood Project – Responsive Web Design
 
 ## WEEK 05
 
