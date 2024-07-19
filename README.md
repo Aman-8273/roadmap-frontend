@@ -99,7 +99,7 @@ Step by step guide to becoming a modern frontend developer course.
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Developer Skills & Editor Setup
+- [✔] Developer Skills & Editor Setup
 - [ ] [OPTIONAL] HTML & CSS Crash Course
 - [ ] JavaScript in the Browser: DOM and Events Fundamentals
 - [ ] How JavaScript Works Behind the Scenes
