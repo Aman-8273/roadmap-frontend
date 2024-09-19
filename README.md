@@ -202,13 +202,13 @@ Step by step guide to becoming a modern frontend developer course.
 - [✔] Advance Components
 - [✔] Advanced Validations With React Hook Form
 - [✔] Data Grid
-- [ ] Advanced Data Grid With Project
+- [✔] Advanced Data Grid With Project
 - [✔] Theming and Styling
-- [ ] Advance Styling with styled function
-- [ ] Dark Mode / Light Mode
-- [ ] Icons
-- [ ] Grid System
-- [ ] Advanced - Responsive Styles
+- [✔] Advance Styling with styled function
+- [✔] Dark Mode / Light Mode
+- [✔] Icons
+- [✔] Grid System
+- [✔] Advanced - Responsive Styles
 - [ ] GRID Project - Build Responsive Navigation Bar With Material UI
 - [ ] (Material UI Official) Responsive Navigation bar With Flexbox
 - [ ] Login / Signup Page With Material UI
