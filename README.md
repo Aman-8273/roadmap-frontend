@@ -229,7 +229,7 @@ Step by step guide to becoming a modern frontend developer course.
 
 ### [Next.js 14 & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide)
 
-- [ ] Getting Started
+- [✔] Getting Started
 - [ ] Optional: React Refresher
 - [ ] NextJS Essentials (App Router)
 - [ ] Routing & Page Rendering - Deep Dive
